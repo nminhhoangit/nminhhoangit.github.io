@@ -91,11 +91,6 @@
         },
         {
           "id": 9,
-          "name": "Ra hoa, cắt hoa mỗi tuần",
-          "day": 103
-        },
-        {
-          "id": 6,
           "name": "Thu hoạch",
           "day": 110
         }
