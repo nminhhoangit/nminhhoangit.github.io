@@ -1,4 +1,5 @@
 {
+"notificationTime": "09:00",
   "plants": [
     {
       "id": 1,
