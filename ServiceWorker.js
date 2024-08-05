@@ -1,9 +1,9 @@
 const cacheName = "nminhhoangit-Hoang Nguyen Portfolio-1.0.0";
 const contentToCache = [
     "Build/Hoang Nguyen Portfolio.loader.js",
-    "Build/Hoang Nguyen Portfolio.framework.js.br",
-    "Build/Hoang Nguyen Portfolio.data.br",
-    "Build/Hoang Nguyen Portfolio.wasm.br",
+    "Build/Hoang Nguyen Portfolio.framework.js",
+    "Build/Hoang Nguyen Portfolio.data",
+    "Build/Hoang Nguyen Portfolio.wasm",
     "TemplateData/style.css"
 
 ];
