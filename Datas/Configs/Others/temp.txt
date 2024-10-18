@@ -6,6 +6,8 @@ Collaborate and supporting Singapore team - Processes Manager
 - Supporting to implement the input UI panels and controlling the 3D assets placement on the environment.
 ---------------------------------------------------------------------------------------------
 Collaborate and supporting Unreal Engine MirrorXR Step 2 project with Japan team
+CSV Data Tracking:
+- Implement CSV Data Tracking that capturing user actions in real-time such as Head Transform, Eye Transform, Vehicle Transform, Contact Point,... into CSV timesheet.
 Replay System:
 - Investigated and documented the use of Unreal Engine's Replay System for application in the current project.
 Heatmap and Paintable Mesh:
@@ -16,12 +18,12 @@ Heatmap and Paintable Mesh:
 Camera Monitor Systems (CMS):
 - Conducted investigation and documentation for optimizing CMS performance in Unreal Engine.
 Miscellaneous:
-- Research and implement CSV Recorder that capturing user actions in real-time such as Head Tracking, Eye Tracking, Vehicle Transform Tracking,....
-- Implemented changing angle for the room mirror
+- Implemented changing angle for the Room Mirror.
 ---------------------------------------------------------------------------------------------
 Create XR/VR Vehicle Simulation Environment for presentation to customer using Oculus Quest 3
 Working with XR/VR using Unity game engine.
 Developing a generic XR/VR Vehicle Simulation Environment using Oculus Quest 3.
+- Onboarding, Main Flow (IVI, IC, HUD, Tool, Setting), Driving Scenario.
 ---------------------------------------------------------------------------------------------
 Implement Road Builder Mechanism using Unreal Engine
 Getting development knowledge with Unreal Engine.
@@ -34,7 +36,8 @@ The research project also committed as a public project on my DXC's GitHub.
 The ECS Agent Pooling System is a versatile Unity component that leverages the Entity Component System (ECS) to manage a pool of entities with specified components. This pool spawner is designed to efficiently handle the creation, activation, and updating of entities based on a provided data type.
 ---------------------------------------------------------------------------------------------
 Mastering New Technologies: Research, Experimentation, and Problem-Solving for Complex Tasks
-Learning new technology, mostly in Unity and Unreal Engine. Investigating complex tasks like Heatmap Visualization or HUD Projection that requires in-depth research, experimentation, and problem-solving. Such as:
+Learning new technology, mostly in Unity and Unreal Engine. Investigating complex tasks like Heatmap Visualization or HUD Projection that requires in-depth research, experimentation, and problem-solving.
+Such as:
 CSV Data Tracking.
 Heatmap Display.
 Camera Monitor System.
