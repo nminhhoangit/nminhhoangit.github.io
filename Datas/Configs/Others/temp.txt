@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------
-Collaborate and supporting Singapore team's Digital Twin - Processes Manager
-- Refactor 13 nodes for Digital Twin - Processes Manager.
+Collaborate and supporting Singapore team - Processes Manager
+- Refactor 13 nodes for project Processes Manager.
 - Complete 2 weeks earlier before the deadline estimated.
 - Support other team members tasks, working overtime nearly 20h with team to meet the deadline.
 - Supporting to implement the input UI panels and controlling the 3D assets placement on the environment.
