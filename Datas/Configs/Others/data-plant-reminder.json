@@ -1,0 +1,101 @@
+{
+"notificationTime": "09:00",
+  "plants": [
+    {
+      "id": 1,
+      "name": "Củ cải đường xanh",
+      "desc": "",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/256/10719/10719328.png",
+      "alarms": [
+        {
+          "id": 1,
+          "name": "Ngâm",
+          "day": 0.125
+        },
+        {
+          "id": 2,
+          "name": "Ủ",
+          "day": 1
+        },
+        {
+          "id": 3,
+          "name": "Gieo",
+          "day": 2
+        },
+        {
+          "id": 4,
+          "name": "Phun thuốc",
+          "day": 5
+        },
+        {
+          "id": 5,
+          "name": "2 lá, chọn lọc, tưới phân hữu cơ",
+          "day": 10
+        },
+        {
+          "id": 6,
+          "name": "4 lá, ngắt 2 lá mầm, bón phân bò dưới gốc",
+          "day": 17
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Củ sắn",
+      "desc": "",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/256/6182/6182491.png",
+      "alarms": [
+        {
+          "id": 1,
+          "name": "Ngâm",
+          "day": 0.25
+        },
+        {
+          "id": 2,
+          "name": "Ủ",
+          "day": 1
+        },
+        {
+          "id": 3,
+          "name": "Ra 3 nhánh",
+          "day": 30
+        },
+        {
+          "id": 4,
+          "name": "Cắt ngọn, nuôi củ, bón phân bò",
+          "day": 45
+        },
+        {
+          "id": 5,
+          "name": "Ra hoa, cắt hoa mỗi tuần, bón phân bò",
+          "day": 75
+        },
+        {
+          "id": 6,
+          "name": "Cắt hoa mỗi tuần",
+          "day": 82
+        },
+        {
+          "id": 7,
+          "name": "Cắt hoa mỗi tuần",
+          "day": 89
+        },
+        {
+          "id": 8,
+          "name": "Cắt hoa mỗi tuần",
+          "day": 96
+        },
+        {
+          "id": 8,
+          "name": "Cắt hoa mỗi tuần",
+          "day": 103
+        },
+        {
+          "id": 9,
+          "name": "Thu hoạch",
+          "day": 110
+        }
+      ]
+    }
+  ]
+}
